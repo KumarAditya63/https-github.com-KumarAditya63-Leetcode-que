@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -23,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
 | ------- |
