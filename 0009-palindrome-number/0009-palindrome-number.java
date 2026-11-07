@@ -16,7 +16,7 @@ class Solution {
         int ar[] = new int[n];
         int index = 0;
 
-        for(int j = n-1; j >= 0; j--) {
+        for(int j = 0; j<n; j++) {
             ar[index] = x % 10;
             x = x / 10;
             index++;
