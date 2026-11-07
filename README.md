@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
