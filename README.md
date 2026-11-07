@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0016-3sum-closest) |
 | [0611-valid-triangle-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0016-3sum-closest) |
 | [0611-valid-triangle-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0016-3sum-closest) |
 | [0611-valid-triangle-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0611-valid-triangle-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
