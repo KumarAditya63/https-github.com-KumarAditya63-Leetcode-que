@@ -8,8 +8,8 @@ class Solution {
 
                     int sum = nums[i] + nums[j] + nums[k];
 
-                    if(Math.abs(sum - target) <
-                       Math.abs(closet - target)) {
+                    if(Math.abs(target - sum) <
+                       Math.abs(target - closet)) {
 
                         closet = sum;
                        }
