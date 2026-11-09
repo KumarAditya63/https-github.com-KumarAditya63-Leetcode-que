@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0016-3sum-closest) |
 | [0611-valid-triangle-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0009-palindrome-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
