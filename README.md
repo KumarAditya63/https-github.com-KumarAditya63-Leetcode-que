@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0016-3sum-closest) |
+| [0219-contains-duplicate-ii](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0219-contains-duplicate-ii) |
 | [0611-valid-triangle-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0219-contains-duplicate-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -72,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
