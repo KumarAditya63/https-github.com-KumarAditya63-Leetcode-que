@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0219-contains-duplicate-ii) |
 | [0611-valid-triangle-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0611-valid-triangle-number) |
+| [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -77,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
