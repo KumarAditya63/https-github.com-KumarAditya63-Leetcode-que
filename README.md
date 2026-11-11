@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
