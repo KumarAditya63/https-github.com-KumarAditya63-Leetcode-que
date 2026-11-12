@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0724-find-pivot-index) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/KumarAditya63/https-github.com-KumarAditya63-Leetcode-que/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
